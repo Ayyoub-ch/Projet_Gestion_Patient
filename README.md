@@ -21,12 +21,13 @@ Il y a 2 versions :<br>
 -Une version faite lors du travail de Groupe qui est incomplète et n'est pas fonctionnelle<br>
 -Une version faite seule après la deadline du travail et qui est complète <br>
 
+Ce dépôt correspond à la version faite seul
 
 Fonctionnalités de cette Application :
 
 -Possibilités de se connecter avec un identifiant et un mot de passe
 
-Il existe 3 rôles :
+Il existe 3 rôles :<br>
 -Administrateur: Rôle donné pour l'admiistrateur du site de l'hôpital<br>
 -Administration: Partie Administration de l'hôpital<br>
 -Infirmier: Partie Infirmerie de l'hôpital<br>
