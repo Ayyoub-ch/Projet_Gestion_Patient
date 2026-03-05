@@ -45,7 +45,6 @@ Administration:
 Infirmier:
 
 Partie Gestion des arrivées et sorties des patients:
-
 -Visualisation du Séjour
 -Visualisation du Patient
 -Possibilité de valider une arrivée ou une sortie d'un patient
